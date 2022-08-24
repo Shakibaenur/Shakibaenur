@@ -15,12 +15,12 @@
 
 - 💬 Ask me about **android, java, kotlin, flutter**
 
-- 📫 How to reach me **shakibaenur@gmail.com**
+- 📫 How to reach me **shakibaenur2612@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nurshakiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nurshakiba" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shakiba-e-nur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakiba-e-nur" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shakiba-e-nur-802a37124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakiba-e-nur" height="30" width="40" /></a>
 <a href="https://medium.com/@shakibaenur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shakibaenur" height="30" width="40" /></a>
 </p>
 
